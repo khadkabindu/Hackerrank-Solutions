@@ -8,4 +8,8 @@
 ### - int i2;
 ### - double d2;
 ### - char s2[100];
-### After this write the scanf() function to read the value 
+### After this write the scanf() function to read the value. In order to match the answer correctly intialize the following values to each variables:
+### - i2 = 12
+### - d2 = 4.0
+### - s2 = "is the best place to learn and practice coding!"
+
